@@ -1,5 +1,5 @@
 # f5-ruby-example
-Example F5 ruby script for joining node to virtual pool from chef
+Example F5 ruby script for joining node to virtual pool using chef
 
 This script relies on a f5-icontrol Ruby GEM provided by F5. 
 
